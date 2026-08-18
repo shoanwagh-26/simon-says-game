@@ -1,4 +1,4 @@
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/fa34e2f5-1dd9-481a-a269-ca35958e4f17" />Simon Says — Memory Game
+Simon Says — Memory Game
 
 A browser-based memory game built with vanilla JavaScript where each round extends a randomly generated color sequence that the player must reproduce correctly.
 
