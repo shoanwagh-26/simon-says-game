@@ -4,7 +4,7 @@ A browser-based memory game built with vanilla JavaScript where each round exten
 
 ## 🚀 Live Demo
 
-[**Play the Live Game →**](https://simon-says-game-xmtw.onrender.com/))
+[**Play the Live Game →**](https://simon-says-game-xmtw.onrender.com/)
 
 ## How It Works
 
